@@ -1,0 +1,25 @@
+{
+  "name": "sonic-city",
+  "version": "1.0.0",
+  "description": "0-player game about a city that arranges itself to play music ",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/augustocorvalan/sonic-city.git"
+  },
+  "author": "Augusto Corvalan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/augustocorvalan/sonic-city/issues"
+  },
+  "homepage": "https://github.com/augustocorvalan/sonic-city#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
